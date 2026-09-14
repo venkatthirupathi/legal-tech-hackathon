@@ -1,5 +1,19 @@
-venv/
-__pycache__/
-*.pdf
+# Security
 .env
+
+# Environments
+venv/
+env/
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# OS Files
 .DS_Store
+Thumbs.db
+
+# Documents 
+*.pdf
+*.docx
+*.txt
