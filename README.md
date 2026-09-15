@@ -12,7 +12,7 @@
 ## 💻 How to Run Locally
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Create a `.env` file and add: `GEMINI_API_KEY=your_key_here`
+3. Copy `.env.example` to `.env` and set your key: `GEMINI_API_KEY=your_key_here`
 4. Run the app: `streamlit run app.py`
 
 > **Disclaimer:** This tool is for informational purposes only and does not constitute professional legal advice.
